@@ -1,3 +1,3 @@
 I am shubham Jain 
-Dev-ops engnner 
+Dev-ops engineer 
 Collab with akshay 
